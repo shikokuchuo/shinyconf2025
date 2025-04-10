@@ -1,0 +1,10 @@
+project:
+  title: "shinyconf2025"
+format:
+  revealjs:
+    theme: [custom.scss]
+    width: "1600"
+    height: "900"
+editor: 
+  markdown: 
+    wrap: 72
