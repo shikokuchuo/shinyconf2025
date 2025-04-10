@@ -2,6 +2,7 @@
 title: "Scaling Shiny: Seamless and Effortless Distributed<br/>Computing with mirai"
 subtitle: "April 11, 2025"
 author: "Charlie Gao (Open Source - Posit, PBC)"
+footer: "See these slides at https://shikokuchuo-shinyconf2025.share.connect.posit.cloud"
 ---
 
 ## In this talk
